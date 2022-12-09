@@ -1,0 +1,13 @@
+body{
+    background-color: darkred;
+}
+p{
+    font-family: 'serif',Times, serif;
+    line-height: 150%
+    color:black;
+}
+h1{
+    font-family:Impact, Haettenschweiler, sans-serif;
+    color:red
+    margin-top:3em;
+}
